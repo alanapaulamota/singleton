@@ -1,4 +1,4 @@
-package com.alana.upis.sigleton;
+package com.alana.upis.padroesPS.sigleton;
 
 public class Principal {
 
